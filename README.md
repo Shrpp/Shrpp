@@ -16,7 +16,6 @@ const me = {
     },
     currentRoles: {
       softwareDeveloper: "Software Developer @ Yummy (YC21)⚡",
-      cto: "CTO @ Setup Consulting 👀"
     },
     mission: "In the vast cyberspace, the only certainty is uncertainty.",
     skills: "Navigating code like a digital samurai",
