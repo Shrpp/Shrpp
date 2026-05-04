@@ -26,7 +26,7 @@ const me = {
       dataAnalyst: "Data Analyst @ Yummy (YC21) 📈"
     },
     currentRoles: {
-      softwareDeveloper: "Software Developer @ Yummy (YC21) ⚡"
+      softwareDeveloper: "Software Developer @ Yummy (YC21) ⚡",
       founder?: "Founder @ OVLT"
     },
     mission: "In the vast cyberspace, the only certainty is uncertainty.",
