@@ -27,12 +27,14 @@ const me = {
     },
     currentRoles: {
       softwareDeveloper: "Software Developer @ Yummy (YC21) ⚡"
+      founder?: "Founder @ OVLT"
     },
     mission: "In the vast cyberspace, the only certainty is uncertainty.",
     skills: "Navigating code like a digital samurai ⚔️"
   },
   where: {
     web: "about.shrpp.dev",
+    email: "me@shrpp.dev",
     discord: "_shrpp"
   }
 }
